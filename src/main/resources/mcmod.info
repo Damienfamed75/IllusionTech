@@ -1,0 +1,16 @@
+[
+{
+  "modid": "it",
+  "name": "Illusion Tech",
+  "description": "The Magical Technology Supplement",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Damien75"],
+  "credits": "The Forge and FML guys of course!",
+  "logoFile": "IllusionTech.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
